@@ -24,7 +24,7 @@
 
 12 - This script tells you information about a file, such as what type of file a file is.
 
-13 - This script creates a symbolic link within the current working directory between two directories.
+13 - This script creates a symbolic link within between the current working directory and specified directory.
 
 14 - This script copies all HTML files from the current directory to the parent directory but only the files that did not exist or were newer than the parent directory.
 
