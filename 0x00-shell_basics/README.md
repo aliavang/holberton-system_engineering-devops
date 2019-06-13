@@ -1,3 +1,5 @@
+This project entails tasks that teaches us how to move around the terminal. It also teaches us how to move files around from directory to directory and create files and directories from within the current working directory as well as from outside of the working directory.
+
 0 - This is a script that prints the absolute path name of the current working directory.
 
 1 - This script displays the contents of the current working directory.
