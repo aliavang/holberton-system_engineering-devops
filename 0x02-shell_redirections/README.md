@@ -1,4 +1,4 @@
-This project's goal is to teach us about file redirections. We also learn how to filter files with certain commands and what special characters are.
+This project's goal is to teach us about file redirections and filtering. We first learn how to redirect the output of commands using the redirection symbols. Then, we learn how to filter files with certain commands and using options with those commands to filter accordingly to what we need. Alongside filtering and redirecting, we learn what special characters are and how to work with them.
 
 0 - A script that prints "Hello, World" with a new line to the standard output.
 
