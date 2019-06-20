@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d " " -f 1 | cut -b 1 | tr "\n" " " | tr -d " "
+cut -c 1 | tr -d "\n" | cut -c 1-
