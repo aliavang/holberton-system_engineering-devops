@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+# This script displays "Holberton School" 10 times and prints "bad luck" if
+#+ 4th iteration and "good luck" if 8th iteration
+count=1
+while [ $count -le 10 ]
+do
+	if [ $count -eq 4 ]
+	then
+		echo "bad luck"
+	elif [ $count -eq 8 ]
+	then
+		echo "good luck"
+	else
+		echo "Holberton School"
+	fi
+	((count++))
+done
