@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# This script displays "Holberton School" ten times but at 9th iteration will
+#+ display "Hi" first before "Holberton School"
+count=0
+while [ $count -lt 10 ]
+do
+	if [ $count -eq 9 ]
+	then
+		echo "Hi"
+	fi
+	echo "Holberton School"
+	((count++))
+done
