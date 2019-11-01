@@ -2,5 +2,5 @@
 # Only displays part of file's name in current directory
 for f in `ls ./`
 do
-	echo $f | cut -d "-" -f2
+	echo "$f" | cut -d "-" -f2
 done
