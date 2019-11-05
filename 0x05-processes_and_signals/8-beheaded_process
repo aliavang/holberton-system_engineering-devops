@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Kill process of specified script
+kill -SIGKILL $(pgrep -f 7-highlander)
